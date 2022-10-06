@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @ALGxMily
+- 👋 Hi, I’m Giuliano
 - 👀 I’m interested in Web Development and Mobile Development!
 - 🌱 I’m currently in MCAST Malta studying for my Computer Science BCs
