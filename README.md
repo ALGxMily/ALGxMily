@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Giuliano
 - 👀 I’m interested in Web Development and Mobile Development!
 - 🌱 I’m currently in MCAST Malta studying for my Computer Science BCs
+- Custom url-shortner app: https://kutturl.vercel.app/
