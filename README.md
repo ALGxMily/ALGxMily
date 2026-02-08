@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Giuliano
-- 👀 I’m interested in Web Development and Mobile Development!
-- 🌱 I’m currently in MCAST Malta studying for my Computer Science BCs
-- Custom url-shortner app: https://kutturl.vercel.app/
+- 👋 Hey nice to meet you!
+- I like to build all kind of things, started by working on front end apps while also trying out custom API solutions and using different tech stacks.
+- I focus mainly on Express and nodejs stack, but I'm trying out different architectures using Redis, Postgres and RabbitMQ.
